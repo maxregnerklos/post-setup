@@ -1,10 +1,53 @@
-﻿Windows Registry Editor Version 5.00
+Windows Registry Editor Version 5.00
 
-[HKEY_LOCAL_MACHINE\SOFTWARE\Microsoft\Windows\CurrentVersion\OEMInformation]
-"HelpCustomized"=dword:00000001
-"Manufacturer"="XPower7125"
-"SupportProvider"="Nano11 Support"
-"SupportAppURL"="nano11-support-help"
-"SupportURL"="https://discord.gg/tJ4J9taUU2"
-"Model"="Nano11"
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer]
+"EnableThumbnails"=dword:00000000
+"ShowFileExtensions"=dword:00000001
+"Hidden"=dword:00000000
+"NewWindowMode"=dword:00000002
+"ShowSuperHidden"=dword:00000000
+"NoRun"=dword:00000000
+"NoClose"=dword:00000000
+"NoTrayItems"=dword:00000000
+"NoDesktop"=dword:00000000
+"NoStartMenu"=dword:00000000
+"NoRecentDocs"=dword:00000000
+"NoFavorites"=dword:00000000
+"NoCommonGroups"=dword:00000000
+"DisableTaskbarAnimations"=dword:00000001
+"TaskbarSimplification"=dword:00000001
+"TaskbarGlazing"=dword:00000000
+"TaskbarUseAcrylic"=dword:00000000
+"TaskbarTranslucentColor"=hex:00000000
+"TaskbarOverlappedGroup"=dword:00000001
+"TaskbarGroupSize"=dword:00000001
+"TaskbarGroupSpacing"=dword:00000001
+"TaskbarSmallTaskbarButtons"=dword:00000000
+"TaskbarShowText"=dword:00000001
+"TaskbarUseSmallTaskbarButtonsWhenOverlapped"=dword:00000000
+"TaskbarUseSmallTaskbarButtonsWhenMaximized"=dword:00000000
+"TaskbarHideWhenMinimized"=dword:00000000
+"TaskbarGripper"=dword:00000000
+"TaskbarLockUI"=dword:00000000
+"TaskbarAutoHideDelay"=dword:00000001
+"TaskbarAutoHideBehavior"=dword:00000002
+"TaskbarAutoHideOnArrangeIcons"=dword:00000000
+"TaskbarAutoHideOnMinimizeAll"=dword:00000000
+"TaskbarAutoHideOnHover"=dword:00000001
+"TaskbarAutoHideDelayOnHover"=dword:00000001
+"TaskbarGripperSnapZone"=dword:00000000
+"TaskbarDoubleClickOnMinimizeButton"=dword:00000000
+"TaskbarUseAltDragForSplitView"=dword:00000000
+"TaskbarUseSmallTaskbarButtonsForDWMComposition"=dword:00000000
+"TaskbarUseFullDragImage"=dword:00000001
+"TaskbarUseAcrylicOnTaskbarAndStartMenu"=dword:00000000
+"TaskbarUseAcrylicOnTaskbarAndStartMenuTransparency"=dword:00000000
+"TaskbarUseAcrylicOnTaskbarAndStartMenuBlur"=dword:00000000
+"TaskbarUseAcrylicOnTaskbarAndStartMenuColor"=hex:00000000
 
+[HKEY_CURRENT_USER\SOFTWARE\Microsoft\Windows\CurrentVersion\Explorer\Settings]
+"Start_IsLargeIcons"=dword:00000000
+"Start_ShowSettingsButton"=dword:00000000
+"Start_ShowSearchBox"=dword:00000000
+"Start_ShowRecentlyAddedApps"=dword:00000000
+"Start_ShowMostUsedApps"
